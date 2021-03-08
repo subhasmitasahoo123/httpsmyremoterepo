@@ -1,1 +1,2 @@
+My file contents.
 this file is to show how git works.
